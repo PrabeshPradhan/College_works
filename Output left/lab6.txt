@@ -1,0 +1,9 @@
+WA c# Progeam to:
+1. implement the conecpt of method overloading
+2. implement the concept of methid overriding using virtual method
+3. implement concept of following operator overloading
+a. Auto increment (++) and auto decrement (--)
+b. Binary operator(* and /)
+c. Relational operator(== and !=)
+4. demonstrate following types of generic class
+List<T>, Stack<T>, Queue<T>, LinkedList<T>, Dictionary<Tkey.TValue>

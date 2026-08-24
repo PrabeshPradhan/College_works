@@ -1,0 +1,10 @@
+1. WAP to find sum of odd arrray elements of size n.
+2. WAP to find minimum and maximum element from 1-D array of size n.
+3. WAP to find sum of diagonal element of 3x3 matrix.
+4. WAP to compute multiplication of two 3x3 matrix and display resultant matrix.
+5. WAP to declare and initialize jagged array and also display the array element.
+6. WAP to illustrate the concept of parameter pass by value and pass by reference.
+7. WAP to illustrate the concept of optional and named parameter.
+8. WAP to implement concept of params keyword.
+9. WAP to print prime element from given 1-D array.
+10. WAP to compute determinant of 3x3 Matrix.

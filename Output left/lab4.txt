@@ -1,0 +1,12 @@
+1. WAP a class Circle containing private variable radius of type float, suitable constructor and two methods findArea and findCircumference to find area and circumference of circles respectively. Write a separate class MyCircle containing main method to create and use circle objects.
+
+2. WAP a class Box with private variables width, height and depth and method to find volume and surface area. Use variable constructors, implement the class to find volume and surface area of two boxes.
+
+3. WAP a class Distance containing private variables feet of type int and inches of type int, suitable constructors and two methods addDistance and displayDistance for adding and display distance objects. Write a separate class MyDistance containing main method to create and use distance objects.
+
+4. WAP to illustrate concept static class and static constructor.
+
+5. WAP to create a structure named company which has name, address, phone and salary as member variables. Read name of company, its addresss, phone and salary. Finaly
+display these member's value.
+
+6. WAP to create a class Time with three attribute hurs, minutes adn seconds. Use appropriate constructors to initialize instance variable. Use methods to display time in HH:MM:SS format, add and subtracr two time objext. Implement the class to add, subtract and display time object.

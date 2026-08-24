@@ -1,0 +1,4 @@
+/home/prabesh/Desktop/Dotnet/lab3/obj/Debug/net8.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/prabesh/Desktop/Dotnet/lab3/obj/Debug/net8.0/lab3.AssemblyInfoInputs.cache
+/home/prabesh/Desktop/Dotnet/lab3/obj/Debug/net8.0/lab3.AssemblyInfo.cs
+/home/prabesh/Desktop/Dotnet/lab3/obj/Debug/net8.0/lab3.csproj.CoreCompileInputs.cache

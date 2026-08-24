@@ -1,0 +1,7 @@
+Write a C# Program:
+1. to select odd and divisible by 3 number from list of number using LINQ query.
+2. to display EMmployee records to descending order with respect to employee name using LINQ.
+3. to select Students who are lived in Kirtipur and studied in Patan Multiple Campus using LINQ.
+4. to implement all LINQ aggregation operator.
+5. to connect to the database and insert 3 Customer records and delete the customer record from Bank database whose Deposit amount is less than 500. (Database: Bank Table: Customer (Account no., Name, Address, Deposit_amount))
+6. to connect the database and display customer information and update customer Address-Kathmandu whose Account number is 1234.

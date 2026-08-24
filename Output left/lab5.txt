@@ -1,0 +1,10 @@
+WAP to
+1. illustrate the concept of abstract class and method.
+//2. implement concept of following types of inheritance:
+a. Single level
+b. Multi-level
+c. Hieacrchica;
+d. Multiple inheritance using interface//
+3. create a property that illustrates varuous types of property.
+4. display the BCA 5th sem subject name using indexer.
+5. a simple Contact management system that  store and retieves contact information (like name and phone number) using indexer.

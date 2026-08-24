@@ -1,0 +1,13 @@
+write a c# Program to:
+1. ILLustrate the singlecast and multicast delegate.
+2. implement the concept of anonymous method and lambda expression.
+3. implement builtin generic delegate.
+4. implement the concept of event handing using delegate.
+
+____xxx
+5. to implement the following Exception:
+a. DivideByZero Exception, b. IndexOutOfRangeException, c. InvalidCastException.
+____xxx
+
+6.that will read balance and withdraw amount from keyboard and display the remaining balance ono screen if the  balance is greater than withdeaw ammount otherwise throw and exception with appropriate message.
+7. that will read name from keyboard and display it on screen. The program should then throw and exception wuth length of name is more than 10 characters.
